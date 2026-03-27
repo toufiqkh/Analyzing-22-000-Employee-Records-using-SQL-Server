@@ -1,5 +1,30 @@
 Human Resources Data Analysis (SQL & People Analytics)
 
+ 11 business questions from Human Resources dataset:
+
+1.Employee Count by Department: How many active employees (those who have not left) are in each department?
+
+2.Gender Distribution: What is the breakdown of genders for active employees in the company?
+
+3.Longest-Serving Employees: Who are the top 5 longest-serving employees still currently working at the organization?
+
+4.Termination Count: How many employees have been terminated in total?
+
+5.Location Breakdown: What is the split between employees working at "Headquarters" versus "Remote" locations?
+
+6.Most Common Job Titles: What are the top job titles held across the organization?
+
+7.Geographic Presence: Which 5 states have the highest concentration of employees?
+
+8.Age Demographics: How many employees fall into the "Young," "Middle-aged," and "Senior" categories?
+
+9.Hiring Trends: How many hires were made each year to identify the company's growth trends?
+
+10.Above-Average Age: Which employees are older than the average age of the entire company?
+
+11.Departmental Turnover: What is the turnover rate for each department (comparing total hired to total terminated)?
+
+
 📌 Project Overview
 This project involves a comprehensive end-to-end data analysis of a corporate Human Resources dataset containing over 22,000 employee records. Using SQL Server (T-SQL), I performed extensive data cleaning, transformation, and exploratory data analysis (EDA) to uncover critical workforce insights regarding demographics, tenure, and turnover.
 
